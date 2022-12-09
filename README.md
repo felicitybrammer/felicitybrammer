@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @felicity, a full-stack dev based in British Columbia, Canada.
-- 👀 felicitybrammer.github.io/wild-port
+ 👋 Hi, I’m @felicity, a full-stack dev based in British Columbia, Canada.
+ 
+ 👀 [Check out my portfolio here](https://felicitybrammer.github.io/wild-port)
 
-- 📫 Reach me at felicitybrammer@gmail.com 
+ 📫 Reach me at felicitybrammer@gmail.com 
 
 <!---
 felicitybrammer/felicitybrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
