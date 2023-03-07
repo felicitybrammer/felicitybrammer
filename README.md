@@ -1,4 +1,4 @@
- 👋 Hi, I’m @felicity, a full-stack dev based in British Columbia, Canada. 
+ 👋 Hi, I’m @felicity, a full-stack dev and educator based in British Columbia, Canada. 
  
  👀 [Check out my portfolio here](https://felicitybrammer.github.io/wild-port)
 
